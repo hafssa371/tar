@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/ma/projet/config/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/ma/projet/beans/Femme.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/tar/TAR.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/ma/projet/beans/Personne.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/ma/projet/service/MariageService.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/ma/projet/service/FemmeService.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/ma/projet/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/ma/projet/dao/IDao.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/ma/projet/service/HommeService.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/ma/projet/beans/Homme.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/ma/projet/beans/HommeFemmePk.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/TAR/src/ma/projet/beans/Mariage.java</file>
+        </group>
+    </open-files>
+</project-private>
